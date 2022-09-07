@@ -1,4 +1,12 @@
-### Hi there 👋
+1. ## Hi 👋, I am Bhanuteja Chitrala.
+2. ## 🔭 I’m currently pursuing MS in Applied Computer Science from NorthWest Missouri State University.
+3. ## 🌱 I’m currently learning React Js and interested to work as Full Stack developer once I complete my MS. 
+4. ## My aim is to become an application architect.
+5. ## 📫 You can reach me through :
+      ### i. Gmail : chitralabhanuteja@gmail.com
+      ### ii. Linked in : https://www.linkedin.com/in/bhanuteja-chitrala-34b63a201/
+6. ## I'm interested to particate in coding competitions, hackothans and also interested to collaborate with people who have innovative startup ideas.
+
 
 <!--
 **Bhanuteja009/Bhanuteja009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
